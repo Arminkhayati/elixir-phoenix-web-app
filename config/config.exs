@@ -10,14 +10,14 @@ use Mix.Config
 config :zsonline, Content.Repo,
   database: "content_repo",
   username: "armin",
-  password: "29399",
+  password: "1234",
   hostname: "localhost",
   pool_size: 10
 
 # Configure your database
 config :zsonline, Zsonline.Repo,
   username: "armin",
-  password: "29399",
+  password: "1234",
   database: "zsonline",
   hostname: "localhost",
   pool_size: 10
