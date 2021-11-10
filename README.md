@@ -1,4 +1,6 @@
 # Zsonline
+A simple demo backend I developed for an interactive language learning platform like busuu.com with Elixir Phoenix Ecto. </br>
+It consists of user authentication and content handler which takes request for a content and returns it to the user.
 
 To start your Phoenix server:
 
